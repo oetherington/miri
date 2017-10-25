@@ -1,0 +1,15 @@
+miri
+*.o
+*.miri
+*.png
+*.bmp
+*.jpeg
+*.jpg
+*.psd
+*.tga
+*.gif
+*.hdr
+*.pic
+*.png
+*.ppm
+*.pgm
